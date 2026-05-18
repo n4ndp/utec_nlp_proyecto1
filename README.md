@@ -26,7 +26,7 @@ pip install transformers datasets evaluate accelerate scikit-learn matplotlib se
 
 ## Ejecución
 
-El notebook está pensado para correr en **Google Colab ([link del cuaderno]([https://drive.google.com/drive/folders/11OuT2VmzLhSaiwAVpIrL3xRRjzQ2eSJD?usp=sharing](https://drive.google.com/file/d/1pdd1zZu2wUxKxHB3RVxFnZb8QIzJKajP/view?usp=sharing)))** con GPU. Las celdas
+El notebook está pensado para correr en **Google Colab ([link del cuaderno](https://drive.google.com/file/d/1pdd1zZu2wUxKxHB3RVxFnZb8QIzJKajP/view?usp=sharing))** con GPU. Las celdas
 se ejecutan en orden; cada bloque depende solo de los anteriores.
 
 | Celdas | Contenido |
